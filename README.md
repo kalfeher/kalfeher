@@ -8,5 +8,4 @@ The tech stack for each project depends entirely on what I found interesting at 
 
 I write about my projects and other technology topics on my website: [kalfeher.com](https://kalfeher.com)
 
-<i class="fa-brands fa-mastodon"></i>
-The best way to contact me is at [@kalfeher@infosec.exchange](https://infosec.exchange/@kalfeher)
+ The best way to contact me is at [@kalfeher@infosec.exchange](https://infosec.exchange/@kalfeher)
