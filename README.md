@@ -6,6 +6,6 @@ The tech stack for each project depends entirely on what I found interesting at 
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,go,azure,kubernetes,linux)](https://skillicons.dev)
 
-I write about my projects and other technology topics on my website: [kalfeher.com](https://kalfeher.com)
+:pencil: I write about my projects and other technology topics on my website: [kalfeher.com](https://kalfeher.com)
 
- The best way to contact me is at [@kalfeher@infosec.exchange](https://infosec.exchange/@kalfeher)
+:speech_balloon: The best way to contact me is at [@kalfeher@infosec.exchange](https://infosec.exchange/@kalfeher)
