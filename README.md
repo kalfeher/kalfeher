@@ -8,4 +8,4 @@ The tech stack for each project depends entirely on what I found interesting at 
 
 I write about my projects and other technology topics on my website: [kalfeher.com](https://kalfeher.com)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16ZM4 5v5a1 1 0 0 0 1 1h1v1.5a.5.5 0 0 0 .854.354L8.707 11H11a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1Z"></path></svg> The best way to contact me is at [@kalfeher@infosec.exchange](https://infosec.exchange/@kalfeher)
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#1f1f1f"><path d="M240-400h320v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM80-80v-720q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v480q0 33-23.5 56.5T800-240H240L80-80Zm126-240h594v-480H160v525l46-45Zm-46 0v-480 480Z"/></svg> The best way to contact me is at [@kalfeher@infosec.exchange](https://infosec.exchange/@kalfeher)
