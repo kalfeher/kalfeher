@@ -13,5 +13,6 @@
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=[style]&logo=go&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?[style]=flat&logo=ansible)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5svg?style=[style]&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/terraform-844FBA?[style]=flat&logo=terraform)
 
 [style]: flat-square
